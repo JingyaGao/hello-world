@@ -1,2 +1,4 @@
 # hello-world
 The start of another journey...
+
+This is Jingya (Alice)! Finally made a github after all this time. Can't wait to see what this new tool will bring me!
